@@ -1,0 +1,14 @@
+#markdown-preview {
+ margin: 20px 320px;
+  width: 50%;
+}
+#markdown-editor {
+  float: left;
+  width: 33%;
+}
+#editor {
+  width: 80%;
+}
+#preview {
+  width: 80%;
+}
